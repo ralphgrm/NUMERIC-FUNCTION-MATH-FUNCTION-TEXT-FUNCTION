@@ -13,4 +13,5 @@
 <b>LCM</b><br>
 -Returns the Least Common Multiple of two or more supplied numbers
 
+![image](https://github.com/DMBysnGnzls/NUMERIC-FUNCTION/assets/143982031/9bd2cc17-2118-43eb-b06c-eb19a4b0aaa9)
 
